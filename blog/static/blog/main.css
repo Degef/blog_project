@@ -1,11 +1,11 @@
 body {
-    background: #fafafa;
-    color: #333333;
+    background: #333333;
+    color: #ffffff;
     margin-top: 5rem;
   }
   
   h1, h2, h3, h4, h5, h6 {
-    color: #444444;
+    color: #ffffff;
   }
   
   ul {
@@ -13,25 +13,26 @@ body {
   }
   
   .bg-steel {
-    background-color: #d6dbe0;
+    background-color: #b11c3c;
   }
   
   .site-header .navbar-nav .nav-link  {
-    color: #000000;
+    color: #ffffff;
+	font-size: larger;
   }
 
  #logo {
     font-size: 30px;
-    color: #111;
+    color: #ffffff;
   }
 
   #logo:hover {
-    color: #044a75;
+    color: #000;
     text-decoration: none;
   }
   
   .site-header .navbar-nav .nav-link:hover {
-    color: #044a75;
+    color: #81c0c2;
   }
   
   .site-header .navbar-nav .nav-link.active {
@@ -39,19 +40,19 @@ body {
   }
   
   .content-section {
-    background: #ffffff;
+    background: #444444;
     padding: 10px 20px;
-    border: 1px solid #dddddd;
+    border: 1px solid #222;
     border-radius: 3px;
     margin-bottom: 20px;
   }
   
   .article-title {
-    color: #444444;
+    color: #ffffff;
   }
   
   a.article-title:hover {
-    color: #428bca;
+    color: #7ca0c0;
     text-decoration: none;
   }
   
@@ -68,9 +69,19 @@ body {
   .article-metadata {
     padding-bottom: 1px;
     margin-bottom: 4px;
-    border-bottom: 1px solid #e3e3e3
+    border-bottom: 1px solid #e3e3e3;
+  }
+
+  .list-group-item {
+	background-color: #555;
+	color: #ffffff;
+  }
+
+  small {
+	color: #d3d3d3;
   }
   
+
   .article-metadata a:hover {
     color: #333;
     text-decoration: none;
