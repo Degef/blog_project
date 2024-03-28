@@ -40,7 +40,7 @@ Open your web browser and navigate to http://localhost:8000 to use the app.
   - Responsive design for various devices.
 ## Screenshots
 
-<img width="1343" alt="Screen Shot 2024-03-05 at 9 22 08 PM" src="https://github.com/Degef/todo_app/assets/103037326/7b9dbaf9-be55-497b-9e3c-42b6c4daefe8">
+<img width="1785" alt="Screen Shot 2024-03-28 at 4 48 13 PM" src="https://github.com/Degef/blog_project/assets/103037326/3ebc5523-f68c-41fa-a8e1-94a894463676">
 
-<img width="1340" alt="Screen Shot 2024-03-05 at 9 23 06 PM" src="https://github.com/Degef/todo_app/assets/103037326/e62e80d9-9189-49f7-bf0e-2dddbfaedd1f">
+<img width="1791" alt="Screen Shot 2024-03-28 at 4 49 59 PM" src="https://github.com/Degef/blog_project/assets/103037326/f6788379-19f2-4e81-bdc5-6f7d0e6e7447">
 
